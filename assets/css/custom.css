@@ -1,2 +1,6 @@
 #leet:hover span {display:none}
-#leet:hover:before {content:"1337"}
+#leet:hover:before {
+    content:"super 1337 hax0r";
+    color: #037703;
+    font-family: monospace;
+}
